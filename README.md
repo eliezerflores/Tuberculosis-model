@@ -1,4 +1,5 @@
-# CodigosTesis
-Archivos de Matlab utilizados para la elaboración de mi tésis de maestría 
+# Tuberculosis  model
+Matlab archives used for the mathematical analysis of the Tuberculosis mathematical model
 
-Antes de correr un archivo, asegurate de que el archivo "Tuberculosis_ODEs" se encuentre en el mismo directorio de trabajo pues sin eso no va a correr.
+Code is currently commented in spanish, will be translated to english in the near future.
+Before running any archive, make sure that "Tuberculosis_ODEs" is on the same working directory as the analysis.
